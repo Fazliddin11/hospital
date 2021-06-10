@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "ism": "sm,bdcbswef",
+      "pochta": "ewfwe",
+      "data": "wefw",
+      "time": "ewfw",
+      "shifokor": "wf4w",
+      "cause": "34t",
+      "id": 4
+    }
+  ],
+  "doctors": [
+    {
+      "ism": "farrux",
+      "pochta": "aa",
+      "specialist": "ss",
+      "section": "aaa",
+      "checkBox": "DU",
+      "id": 1
+    },
+    {
+      "ism": "123123",
+      "pochta": "123123",
+      "specialist": "12313",
+      "section": "aaa",
+      "checkBox": "DU",
+      "id": 2
+    },
+    {
+      "ism": "",
+      "pochta": "",
+      "specialist": "",
+      "section": "eyee",
+      "checkBox": "DU,SE",
+      "id": 3
+    }
+  ],
+  "sections": [
+    {
+      "departments": "aaa",
+      "id": 1
+    },
+    {
+      "departments": "bbb",
+      "id": 2
+    },
+    {
+      "departments": "eyee",
+      "id": 3
+    }
+  ]
+}
